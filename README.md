@@ -1,4 +1,7 @@
 # Deep fake detection Django Application
+
+Introduction
+This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features.
 ## Requirements:
 
 **Note :** Nvidia GPU is mandatory to run the application.
@@ -21,6 +24,7 @@ Django >= v3.0
 - templates -> Template files for HTML
 
 <b>Note:</b> Before running the project make sure you have created directories namely <strong>models, uploaded_images, uploaded_videos</strong> in the project root and that you have proper permissions to access them.
+
 
 
 ### Prerequisite
