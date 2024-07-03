@@ -24,10 +24,6 @@ Django >= v3.0
 
 
 ### Prerequisite
-1. Copy your trained model to the models folder.
-   - You can download our trained models from the [Google Drive](https://drive.google.com/drive/folders/1UX8jXUXyEjhLLZ38tcgOwGsZ6XFSLDJ-?usp=sharing) or you can train your models using the steps mentioned in Model Creation directory.
-
-
 #### Step 1: Create virtualenv (optional)
 
 `python -m venv venv`
